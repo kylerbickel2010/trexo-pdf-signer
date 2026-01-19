@@ -1,0 +1,43 @@
+Trexo PDF Signer
+Copyright (C) 2024-2025 Pintu Prajapati / TrexoLab
+
+This software is licensed under the GNU Affero General Public License v3 (AGPL-3.0).
+See the LICENSE file for the full license text.
+
+For licensing options and terms, see LICENSING.md
+
+================================================================================
+THIRD-PARTY NOTICES
+================================================================================
+
+This software uses the following open-source libraries:
+
+1. iText 5.5.x
+   License: AGPL-3.0
+   https://itextpdf.com/
+
+2. Apache PDFBox 2.x
+   License: Apache License 2.0
+   https://pdfbox.apache.org/
+
+3. Bouncy Castle Cryptography
+   License: MIT License
+   https://www.bouncycastle.org/
+
+4. FlatLaf - Flat Look and Feel
+   License: Apache License 2.0
+   https://www.formdev.com/flatlaf/
+
+5. Jackson (YAML)
+   License: Apache License 2.0
+   https://github.com/FasterXML/jackson
+
+================================================================================
+CONTACT
+================================================================================
+
+For commercial licensing and custom development inquiries:
+
+Pintu Prajapati
+Email: trexolab@gmail.com
+Website: https://trexolab.com

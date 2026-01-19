@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Trexo PDF Signer (Extra Large)
+GenericName=Digital PDF Signer - Extra Large
+Comment=Trexo PDF Signer with 8GB memory for very large PDFs
+Exec=/opt/trexo-pdf-signer/trexo-pdf-signer xlarge %f
+Icon=/opt/trexo-pdf-signer/trexo-pdf-signer.png
+Terminal=false
+Categories=Office;Utility;
+Keywords=pdf;sign;signature;digital;certificate;esign;eds;pkcs11;usb-token;smartcard;pfx;p12;x509;java;document;security;trexolab;trexo-pdf-signer;
+MimeType=application/pdf;
+StartupNotify=true
+StartupWMClass=com-trexolab-App
